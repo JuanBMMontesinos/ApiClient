@@ -1,0 +1,16 @@
+C:\workroot\ApiClient\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\workroot\ApiClient\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\workroot\ApiClient\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\workroot\ApiClient\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\workroot\ApiClient\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\workroot\ApiClient\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\workroot\ApiClient\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\workroot\ApiClient\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\workroot\ApiClient\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CoreCompileInputs.cache
+C:\workroot\ApiClient\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\workroot\ApiClient\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\workroot\ApiClient\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\workroot\ApiClient\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\workroot\ApiClient\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\workroot\ApiClient\Infra\bin\Debug\netcoreapp2.2\Business.dll
+C:\workroot\ApiClient\Infra\bin\Debug\netcoreapp2.2\Business.pdb

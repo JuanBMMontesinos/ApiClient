@@ -1,0 +1,9 @@
+C:\workroot\ApiClient\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\workroot\ApiClient\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\workroot\ApiClient\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\workroot\ApiClient\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\workroot\ApiClient\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\workroot\ApiClient\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\workroot\ApiClient\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\workroot\ApiClient\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+C:\workroot\ApiClient\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\workroot\ApiClient\Business\obj\Debug\netcoreapp3.0\Business.csprojAssemblyReference.cache
+C:\workroot\ApiClient\Business\obj\Debug\netcoreapp3.0\Business.csproj.CoreCompileInputs.cache
+C:\workroot\ApiClient\Business\obj\Debug\netcoreapp3.0\Business.AssemblyInfoInputs.cache
+C:\workroot\ApiClient\Business\obj\Debug\netcoreapp3.0\Business.AssemblyInfo.cs
+C:\workroot\ApiClient\Business\bin\Debug\netcoreapp3.0\Business.deps.json
+C:\workroot\ApiClient\Business\bin\Debug\netcoreapp3.0\Business.dll
+C:\workroot\ApiClient\Business\bin\Debug\netcoreapp3.0\Business.pdb
+C:\workroot\ApiClient\Business\bin\Debug\netcoreapp3.0\Domain.dll
+C:\workroot\ApiClient\Business\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\workroot\ApiClient\Business\obj\Debug\netcoreapp3.0\Business.csproj.CopyComplete
+C:\workroot\ApiClient\Business\obj\Debug\netcoreapp3.0\Business.dll
+C:\workroot\ApiClient\Business\obj\Debug\netcoreapp3.0\Business.pdb
